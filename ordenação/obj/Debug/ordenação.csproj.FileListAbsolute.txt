@@ -1,0 +1,10 @@
+C:\Users\junior\source\repos\ordenação\ordenação\bin\Debug\ordenação.exe.config
+C:\Users\junior\source\repos\ordenação\ordenação\bin\Debug\ordenação.exe
+C:\Users\junior\source\repos\ordenação\ordenação\bin\Debug\ordenação.pdb
+C:\Users\junior\source\repos\ordenação\ordenação\obj\Debug\ordenação.csprojAssemblyReference.cache
+C:\Users\junior\source\repos\ordenação\ordenação\obj\Debug\ordenação.Form1.resources
+C:\Users\junior\source\repos\ordenação\ordenação\obj\Debug\ordenação.Properties.Resources.resources
+C:\Users\junior\source\repos\ordenação\ordenação\obj\Debug\ordenação.csproj.GenerateResource.cache
+C:\Users\junior\source\repos\ordenação\ordenação\obj\Debug\ordenação.csproj.CoreCompileInputs.cache
+C:\Users\junior\source\repos\ordenação\ordenação\obj\Debug\ordenação.exe
+C:\Users\junior\source\repos\ordenação\ordenação\obj\Debug\ordenação.pdb
